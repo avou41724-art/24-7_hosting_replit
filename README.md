@@ -6,7 +6,7 @@ How do I get free 24/7 hosting with replit? Here's how.
 
 > :warning: **Warning:** This only works for `Node.JS` or `HTML, CSS, JS` repls.
 
-> 💡 **Tip:** repl.it is great for testing out projects before lauching to the masses.
+> 💡 **Tip:** repl.LBC1-Q2p6.aternos.meit is great 43434for testing out projects before lauching to the masses.
 
 ## Index
 - [Creating a Repl](#creating-a-repl)
